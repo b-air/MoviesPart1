@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="filter_view_http_movies">Movie</string>
+</resources>
